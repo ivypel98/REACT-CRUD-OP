@@ -1,0 +1,49 @@
+{
+   "contacts": [
+    {
+        "id": "12AZ@",
+        "name": "Rajan",
+        "photo": "../../../images/KAYI.png",
+        "mobile": "9000000090",
+        "email": "Rajan@gmail.com",
+        "company": "ajacio",
+        "division": "selection nationale",
+        "position": "attaque"
+    },
+    {
+        "id": "34A$@",
+        "name": "Lucie Adjo",
+        "photo": "../../../images/LUCIE.png",
+        "mobile": "9001000090",
+        "email": "Lucie@gmail.com",
+        "company": "ajax",
+        "division": "division 1",
+        "position": "defense"
+    },
+    {
+        "id": "90Cd$@",
+        "name": "Holly Adjo",
+        "photo": "../../../images/HOLY.png",
+        "mobile": "9022100090",
+        "email": "holly@gmail.com",
+        "company": "felicio",
+        "division": "division 4",
+        "position": "latéral"
+    }
+   ],
+
+    "division": [
+        {
+            "id":1,
+            "name":"selection nationale"
+        },
+        {
+            "id":2,
+            "name":"division 1"
+        },
+        {
+            "id":3,
+            "name":"division 2"
+        }
+    ]
+}
